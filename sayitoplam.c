@@ -3,7 +3,7 @@ main()
 {
 	int i,n,sonuc;
 	
-	// girilen sayıya kadar olan sayıların toplamını veren algoritma 
+	// girilen sayÄ±ya kadar olan sayÄ±larÄ±n toplamÄ±nÄ± veren algoritma 
 	printf("bir sayi giriniz:	");
 	scanf("%d",&n);
 	sonuc=0;
